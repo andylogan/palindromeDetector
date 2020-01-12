@@ -1,0 +1,14 @@
+C:\Users\brlogan\source\repos\PalindromeDetector\PalindromeDetector\obj\Debug\PalindromeDetector.csprojResolveAssemblyReference.cache
+C:\Users\brlogan\source\repos\PalindromeDetector\PalindromeDetector\obj\Debug\PalindromeDetector.csproj.CoreCompileInputs.cache
+C:\Users\brlogan\source\repos\PalindromeDetector\PalindromeDetector\bin\Debug\PalindromeDetector.exe.config
+C:\Users\brlogan\source\repos\PalindromeDetector\PalindromeDetector\bin\Debug\PalindromeDetector.exe
+C:\Users\brlogan\source\repos\PalindromeDetector\PalindromeDetector\bin\Debug\PalindromeDetector.pdb
+C:\Users\brlogan\source\repos\PalindromeDetector\PalindromeDetector\obj\Debug\PalindromeDetector.exe
+C:\Users\brlogan\source\repos\PalindromeDetector\PalindromeDetector\obj\Debug\PalindromeDetector.pdb
+C:\Users\andyl\source\repos\PalindromeDetector\PalindromeDetector\bin\Debug\PalindromeDetector.exe.config
+C:\Users\andyl\source\repos\PalindromeDetector\PalindromeDetector\bin\Debug\PalindromeDetector.exe
+C:\Users\andyl\source\repos\PalindromeDetector\PalindromeDetector\bin\Debug\PalindromeDetector.pdb
+C:\Users\andyl\source\repos\PalindromeDetector\PalindromeDetector\obj\Debug\PalindromeDetector.csprojResolveAssemblyReference.cache
+C:\Users\andyl\source\repos\PalindromeDetector\PalindromeDetector\obj\Debug\PalindromeDetector.csproj.CoreCompileInputs.cache
+C:\Users\andyl\source\repos\PalindromeDetector\PalindromeDetector\obj\Debug\PalindromeDetector.exe
+C:\Users\andyl\source\repos\PalindromeDetector\PalindromeDetector\obj\Debug\PalindromeDetector.pdb
